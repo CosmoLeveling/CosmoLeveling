@@ -1,4 +1,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CosmoLeveling&theme=rose_pine)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CosmoLeveling&theme=rose_pine)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CosmoLeveling&theme=rose_pine) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CosmoLeveling&theme=rose_pine) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CosmoLeveling&theme=rose_pine&utcOffset=8) 
